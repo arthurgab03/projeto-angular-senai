@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Super Mario Odyssey",
+      "descricao": "Novo jogo do Mario.",
+      "foto": "jogo1.jpg",
+      "preco": 200
+    },
+    {
+      "id": 2,
+      "produto": "Jogo 2",
+      "descricao": "Descrição do jogo 2",
+      "foto": "jogo2.jpg",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "Jogo 3",
+      "descricao": "Descrição do jogo 3",
+      "foto": "jogo3.jpg",
+      "preco": 400
+    },
+    {
+      "id": 4,
+      "produto": "Kirby",
+      "descricao": "Novo jogo mundo aberto do Kirby.",
+      "foto": "jogo4.jpg",
+      "preco": 220
+    }
+  ]
+}
